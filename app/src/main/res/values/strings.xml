@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+
+    <string name="tv_judge_title">あなたの肥満度は</string>
+    <string name="tv_sbw_title">あなたの適正体重は</string>
+
+    <string name="tv_age">年齢</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_weight">体重</string>
+
+    <string name="bv_cal">計算</string>
+    <string name="bv_clear">クリア</string>
+
+    <string name="tv_unit_age">歳</string>
+    <string name="tv_unit_cm">cm</string>
+    <string name="tv_unit_kg">kg</string>
+
+
+    <string name="dialog_title">警告</string>
+    <string name="dialog_msg">適切な肥満度を求めるためには、6歳未満の場合はカウプ指数が、６歳から15際まではローレル指数が使われます。本アプリはBMIのみに対応しています。</string>
+    <string name="dialog_ok">確認</string>
+
+
+    
+</resources>
